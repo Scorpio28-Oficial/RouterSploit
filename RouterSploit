@@ -1,0 +1,41 @@
+#! /data/data/com.termux/files/usr/bin/bash
+
+#Este scrip fue escrito por Scorpio28
+
+
+#VARIABLES
+
+
+             red='\033[1;31m'                                        green='\033[1;32m'
+             yellow='\033[1;33m'                                     blue='\033[1;34m'                                       magenta='\033[1;35m'                                    cyan='\033[1;36m'
+             reset='\033[0m'
+
+	    
+	    
+	     
+cd $HOME
+rm -rf RouterSploit
+cd --
+apt update && apt upgrade
+pkg install git python clang -y 
+pkg install make -y 
+git clone https://github.com/threat9/routersploit
+ls
+cd $HOME/routersploit
+ls
+
+pip install --upgrade pip
+
+python3 -m pip install -r requirements.txt
+
+python3 -m pip install -r requirements-dev.txt
+
+ls
+chmod +x setup.py
+ls
+python3  setup.py install
+
+ls
+
+python3 rsf.py 
+	     
