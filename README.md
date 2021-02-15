@@ -38,3 +38,9 @@ comenzara el escaneo de routers posiblemente vulnerables
 Esta información es exclusivo con fines educativos e informativos, El uso de manera ilegal es responsabilidad de quien la utilize.
 
 ❗OJO sean paciente en la instalación tiempo estimado de 5 a 10minutos segun la velocidad devla red❗
+
+Canal de YouTube
+
+https://youtube.com/channel/UCZxKLn6KG0Dm5kmRaOGphsg
+
+By: Scorpio28
