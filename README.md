@@ -45,4 +45,6 @@ https://youtube.com/channel/UCZxKLn6KG0Dm5kmRaOGphsg
 
 # By: Scorpio28
 
-# Esta información es solo con fines educativos e informativos, el mal uso es responsabilidad de quien la utilize.
+Esta información es solo con fines educativos e informativos, el mal uso es responsabilidad de quien la utilize.
+
+# EL CONOCIMIENTO ES LIBRE.
