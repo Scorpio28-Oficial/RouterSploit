@@ -36,7 +36,7 @@ use scanners_autopwn
 
 # comenzara el escaneo de routers posiblemente vulnerables
 
-❗OJO sean paciente en la instalación tiempo estimado de 5 a 10minutos segun la velocidad devla red❗
+❗OJO sean paciente en la instalación tiempo estimado de 5 a 10 minutos segun la velocidad de la red❗
 
 
 # Canal de YouTube
