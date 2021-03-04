@@ -38,10 +38,9 @@ use scanners_autopwn
 
 ❗OJO sean paciente en la instalación tiempo estimado de 5 a 10 minutos segun la velocidad de la red❗
 
+# Informatic in Termux
 
-# Canal de YouTube
-
-https://youtube.com/channel/UCZxKLn6KG0Dm5kmRaOGphsg
+https://t.me/Informatic_in_Termux_1
 
 # By: Scorpio28
 
