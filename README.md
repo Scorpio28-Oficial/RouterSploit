@@ -21,7 +21,7 @@ $ y
 
 __Aparece un listado de todos los modulos para entrar a cualquier modulo, se escribe el comando ( use ) seguido del modulo a elejir.__
 
-__EJEMPLO__
+# EJEMPLO:
 
 use scanners_autopwn
 
