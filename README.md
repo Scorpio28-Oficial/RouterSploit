@@ -30,19 +30,19 @@ use scanners_autopwn
 3_set target 192.168.1.1 o 192.168.1.0
 
 
-# Esto varia segun la IP tipo de red de los router
+__Esto varia segun la IP tipo de red de los router.__
 
 4_run
 
-# comenzara el escaneo de routers posiblemente vulnerables
+__comenzara el escaneo de routers posiblemente vulnerables.__
 
 __❗OJO sean paciente en la instalación tiempo estimado de 5 a 10 minutos segun la velocidad de la red❗__
 
-_[Informatic in Termux__
+__Informatic in Termux__
 
 https://t.me/Informatic_in_Termux_1
 
-_[By: Scorpio28__
+__By: Scorpio28__
 
 Esta información es solo con fines educativos e informativos, el mal uso es responsabilidad de quien la utilize.
 
