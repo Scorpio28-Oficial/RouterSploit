@@ -19,9 +19,9 @@ $ y
 
 1_show all
 
-# Aparece un listado de todos los modulos para entrar a cualquier modulo, se escribe el comando ( use ) seguido del modulo a elejir.
+__Aparece un listado de todos los modulos para entrar a cualquier modulo, se escribe el comando ( use ) seguido del modulo a elejir.__
 
-# EJEMPLO
+__EJEMPLO__
 
 use scanners_autopwn
 
@@ -36,13 +36,13 @@ use scanners_autopwn
 
 # comenzara el escaneo de routers posiblemente vulnerables
 
-❗OJO sean paciente en la instalación tiempo estimado de 5 a 10 minutos segun la velocidad de la red❗
+__❗OJO sean paciente en la instalación tiempo estimado de 5 a 10 minutos segun la velocidad de la red❗__
 
-# Informatic in Termux
+_[Informatic in Termux__
 
 https://t.me/Informatic_in_Termux_1
 
-# By: Scorpio28
+_[By: Scorpio28__
 
 Esta información es solo con fines educativos e informativos, el mal uso es responsabilidad de quien la utilize.
 
