@@ -1,19 +1,19 @@
 # RouterSploit
 Es un framework escrito en Python que nos permitirá automatizar la mayoría de ataques al router.
 
-$ apt update && apt upgrade -y
+* apt update && apt upgrade -y
 
-$ pkg install git -y
+* pkg install git -y
 
-$ git clone https://github.com/Scorpio28-Oficial/RouterSploit
+* git clone https://github.com/Scorpio28-Oficial/RouterSploit
 
-$ cd RouterSploit
+* cd RouterSploit
 
-$ chmod 777 RouterSploit
+* chmod 777 RouterSploit
 
-$ ./RouterSploit
+* ./RouterSploit
 
-$ y
+* y
 
 # 🦂 INSTRUCCIONES DE USO 🦂
 
