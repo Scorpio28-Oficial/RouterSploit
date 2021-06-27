@@ -5,6 +5,7 @@
 
 Es un framework escrito en Python que nos permitirá automatizar la mayoría de ataques al router.
 
+```
 * apt update && apt upgrade -y
 
 * pkg install git -y
@@ -18,14 +19,15 @@ Es un framework escrito en Python que nos permitirá automatizar la mayoría de 
 * ./RouterSploit
 
 * y
+```
 
-# 🦂 INSTRUCCIONES DE USO 🦂
+### 🦂 INSTRUCCIONES DE USO 🦂
 
 1_show all
 
-__Aparece un listado de todos los modulos para entrar a cualquier modulo, se escribe el comando ( use ) seguido del modulo a elejir.__
+(Aparece un listado de todos los modulos para entrar a cualquier modulo, se escribe el comando " use " seguido del modulo a elejir.)
 
-# EJEMPLO:
+### EJEMPLO:
 
 use scanners_autopwn
 
@@ -34,20 +36,20 @@ use scanners_autopwn
 3_set target 192.168.1.1 o 192.168.1.0
 
 
-__Esto varia segun la IP tipo de red de los router.__
+### Esto varia segun la IP tipo de red de los router.
 
 4_run
 
-__comenzara el escaneo de routers posiblemente vulnerables.__
+##### comenzara el escaneo de routers posiblemente vulnerables.
 
-__❗OJO sean paciente en la instalación tiempo estimado de 5 a 10 minutos segun la velocidad de la red❗__
+##### ❗OJO sean paciente en la instalación tiempo estimado de 5 a 10 minutos segun la velocidad de la red❗
 
-__Informatic in Termux__
+##### Informatic in Termux
 
 https://t.me/Informatic_in_Termux
 
-__By: Scorpio28__
+##### By: Scorpio28
 
 Esta información es solo con fines educativos e informativos, el mal uso es responsabilidad de quien la utilize.
 
-# EL CONOCIMIENTO ES LIBRE.
+##### EL CONOCIMIENTO ES LIBRE.
