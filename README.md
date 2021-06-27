@@ -1,4 +1,8 @@
 # RouterSploit
+<p align="center">
+	<img src="https://i.imgur.com/JRNx5tg.jpg" width="600px">
+</p>
+
 Es un framework escrito en Python que nos permitirá automatizar la mayoría de ataques al router.
 
 * apt update && apt upgrade -y
